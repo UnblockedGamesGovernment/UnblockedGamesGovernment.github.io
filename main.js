@@ -514,10 +514,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Default customization settings
     const defaultCustomisation = [
-        'https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/yRF5c-O/elegant-professional-sophisticated-business-corporate-motion-background-seamless-loop-deep-blue-dark_hmtqfxgdx_thumbnail-1080_12.png',  // Default background image
+        'https://i.pinimg.com/originals/86/44/e2/8644e275184c838767566c3d38d9bce2.png',  // Default background image
         '#000000',          // Default primary color
         '#FFFFFF',          // Default secondary color
-        '1280'              // Default background resolution
+        '800'              // Default background resolution
     ].join('\n');
 
     // Store the default values in the "customisation" key in localStorage
