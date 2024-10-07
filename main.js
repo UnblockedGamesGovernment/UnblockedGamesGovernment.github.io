@@ -514,7 +514,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Default customization settings
     const defaultCustomisation = [
-        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaL2GVlQFOxwbTSPcPaQUr0o9ckpi3kxsY0Q&s',  // Default background image
+        'https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/yRF5c-O/elegant-professional-sophisticated-business-corporate-motion-background-seamless-loop-deep-blue-dark_hmtqfxgdx_thumbnail-1080_12.png',  // Default background image
         '#000000',          // Default primary color
         '#FFFFFF',          // Default secondary color
         '1280'              // Default background resolution
