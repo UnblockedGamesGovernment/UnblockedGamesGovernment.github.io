@@ -517,7 +517,7 @@ document.addEventListener('DOMContentLoaded', function () {
         'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaL2GVlQFOxwbTSPcPaQUr0o9ckpi3kxsY0Q&s',  // Default background image
         '#000000',          // Default primary color
         '#FFFFFF',          // Default secondary color
-        '1080'              // Default background resolution
+        '1280'              // Default background resolution
     ].join('\n');
 
     // Store the default values in the "customisation" key in localStorage
