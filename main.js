@@ -514,7 +514,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Default customization settings
     const defaultCustomisation = [
-        '/background.png',  // Default background image
+        'https://th.bing.com/th/id/OIP.AOuHOWm7MPo5HeMbyoIzEAHaEK?rs=1&pid=ImgDetMain',  // Default background image
         '#111E2C',          // Default primary color
         '#58AAFC',          // Default secondary color
         '1280'              // Default background resolution
